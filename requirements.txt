@@ -1,0 +1,11 @@
+opencv-python
+dlib
+numpy
+scipy
+keras
+h5py
+matplotlib
+tensorflow
+scikit-learn
+pandas
+nltk
